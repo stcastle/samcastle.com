@@ -1,11 +1,8 @@
-baseURL = "https://example.com"
+baseURL = "https://pedantic-ardinghelli-7de9dc.netlify.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Sam Castle"
 theme = "cupper-hugo-theme"
-#googleAnalytics = "UA-123456791-1"
-#disqusShortname = "yourdiscussshortname"
-#enableGitInfo = true
 
 [taxonomies]
   tag = "tags"
@@ -42,7 +39,3 @@ theme = "cupper-hugo-theme"
     name = "About"
     url = "/about/"
     weight = 4
-  #[[menu.nav]]
-    #name = "RSS"
-    #url = "/index.xml"
-    #weight = 5
