@@ -1,6 +1,7 @@
 ---
 title: "Notes from Startup Workshop Class at Davidson College"
 date: 2019-06-17T09:46:44-07:00
+tags: ["entrepreneurship", "startup", "davidson", "college", "workshop", "class"]
 draft: false
 ---
 
