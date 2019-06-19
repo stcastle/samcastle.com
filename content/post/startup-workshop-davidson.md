@@ -162,6 +162,7 @@ Then, use the next list below to evaluate your own idea and convince yourself wh
 that is actually good and isn't as bad as it sounds.
 
 ![The sweet spot for startup ideas is in the small overlap between good ideas and ideas that seem bad.](/images/startup-ideas-venn-diagram.png)
+
 The sweet spot for startup ideas is in the small overlap between good ideas and ideas that seem bad.
 
 ### How to Evaluate Ideas
