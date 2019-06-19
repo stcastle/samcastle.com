@@ -9,13 +9,13 @@ I participated in Y Combinator's Winter 2019 batch with [NALA](https://techcrunc
 I recently gave advice to a group of founders who had a YC interview.
 Similar advice exists elsewhere online, but I figured it's still worthwhile for me to type this up.
 
-# Getting a YC Interview
+## Getting a YC Interview
 
 Rather than focus on the initial application process, this advice is most relevant for those who are waiting to have their in-person YC interview.
 In reality, most of this advice is relevant for companies talking to any investors.
 For the best advice on being successful in the written application for YC, see their [website](https://www.ycombinator.com/howtoapply/).
 
-# The First Question
+## The First Question
 
 The first thing to ask yourself is whether you want YC.
 If your interview goes well, you will likely have to decide that same day whether you want to accept YC.
@@ -28,7 +28,7 @@ the [YC financial terms](https://www.ycombinator.com/deal/)
 may not be what you're looking for.
 As a general rule, I think it's important to intentionally consider what you're getting into.
 
-# The Most Important Part of the Interview
+## The Most Important Part of the Interview
 
 Almost every YC interview will begin with the question "What does your company do?"
 Make sure you can clearly explain your company in one or two sentences in plain english with no jargon.
@@ -71,7 +71,7 @@ This sentence isn't perfect,
 but it describes what the core business is and why it's better than the incumbent hotel industry.
 It's a start.
 
-# YC Interviewers are Investors
+## YC Interviewers are Investors
 
 This is a reminder about something I slipped in the bad example from the previous section.
 YC interviewers are investors, not customers.
@@ -80,7 +80,7 @@ They want to hear plain, simple, understandable descriptions.
 For example, saying "we offer best-in-class efficient beautiful cleaning" is much less meaningful
 than saying "we clean houses, and we do it better and cheaper because..."
 
-# Know Your Market and Traction
+## Know Your Market and Traction
 
 Once you've explained your business clearly, you've won half the battle.
 Now the second half is market and traction.
@@ -94,7 +94,7 @@ your YC interview is to launch.
 If you don't think you can launch before your YC interview, you may be right,
 but relax your constraints and consider it again.
 
-# Be a Unicorn
+## Be a Unicorn
 
 This may sound a bit facetious, but truth be told, YC isn't looking for a good business,
 they are looking for a billion dollar business.
@@ -114,7 +114,7 @@ YC will be very excited if you demonstrate that you operate in a decently large 
 and _it's growing at X% per year._
 That's an exciting business.
 
-# How to Close
+## How to Close
 
 Once you've clearly explained your business and demonstrated a compelling market,
 the two most important ways you can demonstrate your merit to any investor are:
